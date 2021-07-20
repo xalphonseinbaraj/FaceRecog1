@@ -1,4 +1,4 @@
-1. you need to create the virtual environment
+1. you need to create the virtual environment (recommended) otherwise use conda environment
 2. then install all dependencies
 3. then run app.py so your captured images will be stored under the folder datasets with your name
 4. In your output, click the train button,
