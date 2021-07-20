@@ -1,0 +1,10 @@
+1. you need to create the virtual environment
+2. then install all dependencies
+3. then run app.py so your captured images will be stored under the folder datasets with your name
+4. In your output, click the train button,
+5. after click the train button,wait for while, u will get notification like -"training was success...."
+6. then click predict button to recognize your face with name
+
+
+
+This project is under progress not yet completed
